@@ -204,7 +204,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Intersection Observer API** for scroll animations
 
 ## 🔎 Deployment
-
+https://portfolio-ri3v5kpe2-chiranjeevi005s-projects.vercel.app/
 ---
 
 ⭐ **Star this repository if you found it helpful!** 
