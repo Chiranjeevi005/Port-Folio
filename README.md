@@ -192,10 +192,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 **Chiranjeevi PK**
-- **Email**: [Your Email]
-- **LinkedIn**: [Your LinkedIn]
-- **GitHub**: [Your GitHub]
-- **Portfolio**: [Live Demo Link]
+- **Email**: chiranjeevi8050@gmail.com
+- **LinkedIn**: www.linkedin.com/in/chiranjeevi005
 
 ## 🙏 Acknowledgments
 
@@ -204,6 +202,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Cloudinary** for image optimization
 - **CSS Grid & Flexbox** for modern layouts
 - **Intersection Observer API** for scroll animations
+
+## 🔎 Deployment
 
 ---
 
